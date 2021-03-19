@@ -1,0 +1,5 @@
+This folder is about the backtesting results of this repo.
+It contains:
+1. An excel file of *Annual Return Rate*, *Annual Volatility*, *Sharp Ratio* and *Maximum Drawdown Rate* corresponding to their risk budgets.
+2. Four pictures about these four indicators.
+3. A picture about the average annual volatility and the combination of 000001.SH and HSI.HI.
