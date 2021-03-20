@@ -20,8 +20,6 @@ Risk budget is the probability of risk.
   
 Risk budget model comes from the management of risk, which means customers are able to decide the risk of different asset at beginning and finally can be provided with a portfolio that produce the greatest profit.  
 
-Suppose a portfolio contains n assets and the allocation is `w = (w1,w2,...,wn)`, where `wi` means the weight of asset i in this portfolio. Through the information about these 5 asssets and use this model, we can finally get the optimal portfolio that minimize the risk.   
-
 More mathematical details can be seen in 
 [Mathematical Explaination](https://github.com/algo21-116010293/Assignment1/wiki)
 
