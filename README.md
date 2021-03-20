@@ -21,7 +21,7 @@ Risk budget is the probability of risk.
 Risk budget model comes from the management of risk, which means customers are able to decide the risk of different asset at beginning and finally can be provided with a portfolio that produce the greatest profit.  
 
 More mathematical details can be seen in 
-[Mathematical Explaination](https://github.com/algo21-116010293/Assignment1/wiki)
+[Mathematical Explaination](https://github.com/algo21-116010293/Assignment1/wiki/Mathematical-Explanation)
 
 
 ## Empirical Study
@@ -42,7 +42,7 @@ Underlying Asset|000001.SH|H11001.CSI|AU9999.SGE|SPX.GI|HSI.HI
 1001  | 1.0  | 0.0  | 0.0  | 0.0  | 0.0  
 
 ### 2. Construct Model  
-In [Mathematical Explaination](https://github.com/algo21-116010293/Assignment1/wiki), objective function and some parameters ahould be defined first to build this model.    
+In [Mathematical Explaination](https://github.com/algo21-116010293/Assignment1/wiki/Mathematical-Explanation), objective function and some parameters ahould be defined first to build this model.    
 
 The **objective function** can be defined as: 
 ```Python
