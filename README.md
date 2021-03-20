@@ -27,7 +27,7 @@ More mathematical details can be seen in
 
 
 ## Empirical Study
-In this part, 5 assets(i.e. 000001.SH, H11001.CSI, AU9999.SGE, SPX.GI, HSI.HI) from January 2006 to June 2019 are used to built the risk budget model. These assets are selected because they can represent different  market. Data are downloaded from Wind as daily price and can be seen in the [Asset Data]()  
+In this part, 5 assets(i.e. 000001.SH, H11001.CSI, AU9999.SGE, SPX.GI, HSI.HI) from January 2006 to June 2019 are used to built the risk budget model. These assets are selected because they can represent different  market. Data are downloaded from Wind as daily price and can be seen in the [Asset Data](https://github.com/algo21-116010293/Assignment1/blob/main/asset.xlsx)  
 
 ### 1. Generate Risk Budget Table
 Firstly, risk budget of these 5 assets should be settled. In order to consider different risk preference for different customers, this project use 1001 kinds of      situation, namely the unit change of risk budget is 0.1. Table1.1 shows part of the risk budget of these portfolios.   
@@ -191,7 +191,7 @@ Both of the reports are written in Chinese and if I find some English versions, 
 ## Code
 All the codes that are related to this repo are in the `riskBudget.py` [risk_budget_model code](https://github.com/algo21-116010293/Assignment1/blob/main/riskBudget.py)  
 
-Also, I put the code in R in the folder [DataAnalysis](https://github.com/algo21-116010293/Assignment1/tree/main/DataAnalysisthat) is used to generate the plots in **Asset Allocation** sector.  
+Also, I put the code in R in the folder [DataAnalysis](https://github.com/algo21-116010293/Assignment1/tree/main/DataAnalysis) that is used to generate the plots in **Asset Allocation** sector.  
 
 ## Contact
 If you have any issues or ideas towards this repo, welcome to leave your note. 
