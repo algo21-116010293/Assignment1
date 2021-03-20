@@ -167,8 +167,10 @@ Asset can be divided into three types according to the risk preference of differ
 | 2 | 0.3  | 0.0  | 0.7  | 0.0  | 0.0 | 0.1120 | 0.1469 | 0.5585 | 0.3987             
 
 *Plot: The Net Value Curve and Asset Allocation of the above 2 portfolio*  
-![R1](https://github.com/algo21-116010293/Assignment1/blob/main/Asset%20Allocation/R1.png)  
-![R2](https://github.com/algo21-116010293/Assignment1/blob/main/Asset%20Allocation/R2.png)  
+![R1](https://github.com/algo21-116010293/Assignment1/blob/main/Asset%20Allocation/R1.png)   
+        
+![R2](https://github.com/algo21-116010293/Assignment1/blob/main/Asset%20Allocation/R2.png)      
+    
 
 ## Conclusion
 The optimal portfolio and its performance are related to the underlyings, especially to the stock and bond. That is, the annual return rate will increase as the weight of stock increases, the Sharp Ratio will increase as the weight of bond increases while the maximum drawdown rate will decrease as its weight increase.  
